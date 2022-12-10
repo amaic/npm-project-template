@@ -1,2 +1,2 @@
-# dijs
-dependency injection
+# npm-project-template
+npm project template
