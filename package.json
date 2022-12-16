@@ -1,6 +1,6 @@
 {
   "name": "@amaic/npm-project-template",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "npm project template",
   "main": "dist/index.js",
   "scripts": {
